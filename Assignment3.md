@@ -4,7 +4,6 @@
 3. install a package using npm use it(show screen shot of package.json)
 4. git command to reset a commit
 5. write a simple program in javascript and run it using nodejs.
-
 <br>
 
 <strong>Solutions</strong>
